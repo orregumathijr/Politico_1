@@ -1,5 +1,5 @@
 ## Welcome to Politico
-Politico is an election based platform. You can access it here https://orregumathijr.github.io/Politico_1/UI/frontend/login.html on Github Pages
+Politico is an election based platform. You can access it here https://orregumathijr.github.io/Politico_1/UI/frontend/signup.html on Github Pages
 
 It enables a an administrator to create a government office and official posts. A politician can then show interest in vying for a particular government post created by the admin. A voter is able to vote for his/her preffered politician vying for a government office. The user can view the government posts, the politicians vying and his/her preffered candidate
 
